@@ -1,0 +1,7 @@
+# run: conda env create --file environment.yml
+name: modeling-seminar
+dependencies:
+  - python=3.10.12
+  - numpy
+  - matplotlib
+  - tqdm

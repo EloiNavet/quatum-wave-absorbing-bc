@@ -1,0 +1,3 @@
+from homogoneous_diffusion_eq.diffusion_simul_implementation import main_experience as diffusion_experience
+
+diffusion_experience()

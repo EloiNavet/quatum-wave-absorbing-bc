@@ -1,0 +1,3 @@
+from nonhomogoneous_diff_eq.nonhomogoneous_diffusion_simul_implementation import main_experience as nonh_diffusion_experience
+
+nonh_diffusion_experience()
